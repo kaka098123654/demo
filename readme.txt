@@ -3,4 +3,9 @@ readme:
 	i like demo too<kevinzhang>.
 	it's so easy,it's cool,back
 	git git git ...
-	+++++++====+++++++++++++
+<<<<<<< HEAD
+	++++++++++++++++++++
+=======
+	++++++++++++++++++++
+	====================
+>>>>>>> dev
